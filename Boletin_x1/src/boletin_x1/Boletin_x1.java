@@ -15,7 +15,7 @@ public class Boletin_x1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here borrado boletin x
+        // TODO code application logic here borrado boletin x rfgdfgfdhfdsdfdsfgdf
     }
     
 }
